@@ -11,13 +11,13 @@ Unix V6 file system has a current limitation of 16MB on file size. Redesign the 
 * Implement check free block function.
 
 * cpin external file 
-create new v6-file in the modified file system.
+(create new v6-file in the modified file system.)
 * cpout v6-file externalfile
-create externalfile and make its contents equal to v6-file.
+(create externalfile and make its contents equal to v6-file.)
 * mkdir v6-dir
-create the directory.
+(create the directory.)
 * rm v6-dir
-delete the file.
+(delete the file.)
 * q
-save all changes and quit.
+(save all changes and quit.)
 
